@@ -63,10 +63,7 @@ button{
     border-color: hsl(71, 73%, 54%);
     border-radius: 10px;
 }
-a{
-    color: hsla(0, 0%, 100%)
-}
-a:hover{ color: hsl(204, 100%, 53%)}
+button:hover{color: hsl(204, 98%, 50%)}
 .whyus{
     position: absolute;
     background-color: hsla(179, 38%, 50%, 0.89);
